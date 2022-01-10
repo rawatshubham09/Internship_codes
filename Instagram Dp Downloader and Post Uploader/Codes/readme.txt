@@ -1,4 +1,4 @@
-# Download Zip File of This Repo and past it in your system Drive
+# Download Zip File of This Repo and paste it in your system Drive
 
 
 # Open cmd in Current working Directory -
